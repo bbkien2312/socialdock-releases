@@ -2,7 +2,7 @@
 
 Thư viện ZIP và trình duyệt trong app để tổ chức liên kết, lọc dữ liệu và tải video từ nguồn bạn có quyền truy cập.
 
-[Tải bộ cài và xem phiên bản](https://github.com/bbkien2312/socialdock-releases/releases)
+[Tải SOCIALdock 0.8.0 beta](https://github.com/bbkien2312/socialdock-releases/releases/tag/v0.8.0)
 
 Repository này chỉ chứa hướng dẫn và bản phát hành. Source được quản lý trong repository private.
 
@@ -13,6 +13,8 @@ Repository này chỉ chứa hướng dẫn và bản phát hành. Source đư�
 - macOS: `.dmg` cho Intel (x64) hoặc Apple Silicon (arm64).
 
 Chỉ các hệ điều hành ghi đạt trong release notes mới có file phát hành. Bản chưa ký/notarize được đánh dấu prerelease; có thể gặp SmartScreen/Gatekeeper. SHA256SUMS xác minh file, không thay chữ ký số.
+
+Các bộ cài kèm Python, yt-dlp, FFmpeg và ffprobe; không cần cài Node/Python. Bản 0.8.0 đã kiểm tra app đóng gói trên Windows x64, Linux x64 và macOS Intel/Apple Silicon. Windows có thêm kiểm thử GUI và cài/nâng cấp/gỡ bộ cài; Linux/macOS kiểm tra trên runner, chưa bao phủ mọi máy người dùng. Xem [ghi chú phiên bản](RELEASE_NOTES.md).
 
 ## Bắt đầu
 
