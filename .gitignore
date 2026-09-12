@@ -1,0 +1,6 @@
+*.exe
+*.dmg
+*.AppImage
+*.zip
+*.blockmap
+SHA256SUMS.txt
