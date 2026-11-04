@@ -2,7 +2,8 @@
 
 Thư viện ZIP và trình duyệt trong app để tổ chức liên kết, lọc dữ liệu và tải video từ nguồn bạn có quyền truy cập.
 
-[Tải SOCIALdock 0.8.0 beta](https://github.com/bbkien2312/socialdock-releases/releases/tag/v0.8.0)
+- Windows x64: [Tải SOCIALdock 1.0.0](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.0.0)
+- Linux và macOS: [Tải SOCIALdock 0.8.0 beta](https://github.com/bbkien2312/socialdock-releases/releases/tag/v0.8.0)
 
 Repository này chỉ chứa hướng dẫn và bản phát hành. Source được quản lý trong repository private.
 

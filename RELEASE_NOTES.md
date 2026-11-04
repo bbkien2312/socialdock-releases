@@ -1,3 +1,9 @@
+# SOCIALdock 1.0.0 · Windows x64
+
+Bản 1.0.0 thêm tạo lịch Reel trên Facebook, lịch sử theo đích và mục Môi trường. Nếu chưa xác minh được lịch sau khi gửi, app giữ trạng thái Chưa xác định để đối chiếu và tránh gửi trùng.
+
+Đã kiểm tra cài, mở và gỡ trên Windows x64 bằng dữ liệu thử. Luồng tạo lịch đã xác nhận trên ba video Facebook thật liên tiếp trong một đợt. Bộ cài chưa ký số. Dùng `SHA256SUMS.txt` để kiểm tra tệp tải về. [GitHub Release v1.0.0](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.0.0)
+
 # SOCIALdock 0.8.0 beta · 12/09/2026
 
 - Bộ cài mang theo Python, yt-dlp, FFmpeg và ffprobe; dữ liệu nằm ngoài thư mục cài.
