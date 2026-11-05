@@ -1,3 +1,11 @@
+# SOCIALdock 1.1.1 · Windows x64 · 06/11/2026
+
+- Thêm Cập nhật riêng ở cột trái và tab Hồ sơ & tài khoản với tên gợi nhớ, mã hồ sơ, lựa chọn và quản lý cookie/cache có xác nhận.
+- Môi trường có Debug ghi thời gian xử lý và vị trí lỗi đã lọc, cùng cổng Thử nghiệm mặc định tắt. Hiện chưa có tính năng thử nghiệm được đăng ký.
+- Source có run.bat dùng thư mục dữ liệu đã lưu, tùy chọn Debug/Thử nghiệm/dữ liệu riêng và log launcher.
+
+Đã kiểm tra trực tiếp EXE bằng hồ sơ/cookie tổng hợp, quyền IPC, lưu chế độ, cô lập thao tác xóa và giao diện ở hai kích thước. Lượt này kiểm tập trung các thay đổi trên EXE. Bộ cài chưa ký số. [GitHub Release v1.1.1](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.1)
+
 # SOCIALdock 1.1.0 · Windows x64 · 06/11/2026
 
 - Hiển thị nơi lưu video, đổi/mở thư mục và đặt lại Downloads của hệ điều hành. Giữ đích của các lượt đã xếp và đường dẫn tệp cũ.
