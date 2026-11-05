@@ -2,7 +2,7 @@
 
 Thư viện ZIP và trình duyệt trong app để tổ chức liên kết, lọc dữ liệu và tải video từ nguồn bạn có quyền truy cập.
 
-- Windows x64: [Tải SOCIALdock 1.0.0](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.0.0)
+- Windows x64: [Tải SOCIALdock 1.1.0](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.0)
 - Linux và macOS: [Tải SOCIALdock 0.8.0 beta](https://github.com/bbkien2312/socialdock-releases/releases/tag/v0.8.0)
 
 Repository này chỉ chứa hướng dẫn và bản phát hành. Source được quản lý trong repository private.
@@ -26,6 +26,10 @@ Chọn hồ sơ → mở website và đăng nhập trực tiếp trên trang ch�
 3. Nhập link: dán URL hoặc CSV/TXT → xem trước → lưu danh sách.
 
 Lọc và tick link → Tải video đã chọn. Cửa sổ Tải xuống có tiến độ, lỗi, hồ sơ/nguồn/đợt tải và thao tác hủy/thử lại. Chất lượng phụ thuộc các định dạng nguồn cung cấp.
+
+Trong Tải xuống → Video, xem nơi lưu ở đầu cửa sổ và dùng Mở thư mục, Đổi thư mục hoặc Dùng Downloads mặc định. Lượt tải mới mặc định vào Downloads của hệ điều hành. Các lượt đã xếp và tệp đã tải giữ đường dẫn trong lịch sử.
+
+Trong Môi trường → Cập nhật, bấm Kiểm tra cập nhật để xem bản mới và ghi chú. Bản Windows x64 cài bằng NSIS có thể tải, xác minh SHA-256 và mở bộ cài nâng cấp. Windows có thể yêu cầu xác nhận bộ cài chưa ký. Người dùng 1.0.0 tải bộ cài 1.1.0 một lần để có mục Cập nhật.
 
 ## Dữ liệu hiện có
 

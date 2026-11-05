@@ -1,3 +1,11 @@
+# SOCIALdock 1.1.0 · Windows x64 · 06/11/2026
+
+- Hiển thị nơi lưu video, đổi/mở thư mục và đặt lại Downloads của hệ điều hành. Giữ đích của các lượt đã xếp và đường dẫn tệp cũ.
+- Thêm kiểm tra bản mới trong Môi trường, xem ghi chú và tải bộ cài có xác minh SHA-256. Windows mở NSIS sau khi app lưu tiến độ và thoát.
+- Đã kiểm tra EXE/thư mục tải, cài đè từ 1.0.0 và cập nhật trong app lên bản tổng hợp kế tiếp trên Windows runner. Phiên thử và nơi lưu đã chọn được giữ. Phép thử bộ cài tổng hợp loại dấu Internet trong môi trường thử, người dùng xác nhận thông báo Windows khi cập nhật thật.
+
+Bộ cài chưa ký số. Người dùng 1.0.0 tải bộ cài mới một lần. [GitHub Release v1.1.0](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.0)
+
 # SOCIALdock 1.0.0 · Windows x64
 
 Bản 1.0.0 thêm tạo lịch Reel trên Facebook, lịch sử theo đích và mục Môi trường. Nếu chưa xác minh được lịch sau khi gửi, app giữ trạng thái Chưa xác định để đối chiếu và tránh gửi trùng.
