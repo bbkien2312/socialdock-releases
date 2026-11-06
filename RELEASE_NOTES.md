@@ -1,3 +1,9 @@
+# SOCIALdock 1.1.2 · Windows x64 · 06/11/2026
+
+Sửa helper cập nhật mở hộp xác nhận Windows ở trạng thái ẩn. Helper WinExe chạy với cửa sổ xác nhận bình thường, giữ kiểm SHA-256 trước mở installer. Prerelease vẫn được hỗ trợ.
+
+Người dùng 1.1.0/1.1.1 cần mở bộ cài 1.1.2 trực tiếp một lần vì helper cũ nằm trong bản đang cài. Đã kiểm native helper từ EXE đóng gói và khởi động backend trên dữ liệu thử. Hộp xác nhận với tệp có dấu Internet được quan sát trên Windows, người dùng xác nhận khi cài thật. Bộ cài chưa ký số. [GitHub Release v1.1.2](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.2)
+
 # SOCIALdock 1.1.1 · Windows x64 · 06/11/2026
 
 - Thêm Cập nhật riêng ở cột trái và tab Hồ sơ & tài khoản với tên gợi nhớ, mã hồ sơ, lựa chọn và quản lý cookie/cache có xác nhận.

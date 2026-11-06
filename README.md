@@ -2,10 +2,12 @@
 
 Thư viện ZIP và trình duyệt trong app để tổ chức liên kết, lọc dữ liệu và tải video từ nguồn bạn có quyền truy cập.
 
-- Windows x64: [Tải SOCIALdock 1.1.1](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.1)
+- Windows x64: [Tải SOCIALdock 1.1.2](https://github.com/bbkien2312/socialdock-releases/releases/tag/v1.1.2)
 - Linux và macOS: [Tải SOCIALdock 0.8.0 beta](https://github.com/bbkien2312/socialdock-releases/releases/tag/v0.8.0)
 
 Repository này chỉ chứa hướng dẫn và bản phát hành. Source được quản lý trong repository private.
+
+Bản 1.1.2 sửa hộp xác nhận mở bộ cài bị ẩn trên Windows. Người đang dùng 1.1.0 hoặc 1.1.1 chạy bộ cài 1.1.2 trực tiếp một lần để nhận bản sửa updater.
 
 ## Chọn bộ cài
 
